@@ -1,1 +1,14 @@
-Gravar a aula
+{
+  "todos": [
+    {
+      "content": "Segunda TODO",
+      "done": false,
+      "date": "2024-05-09T17:06:15.315Z"
+    },
+    {
+      "content": "Terceira TODO",
+      "done": false,
+      "date": "2024-05-09T17:06:15.316Z"
+    }
+  ]
+}
